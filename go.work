@@ -1,8 +1,9 @@
 go 1.21.0
 
 use (
+	./arrays_slices
 	./helloworld
 	./integers
 	./iteration
-	./arrays_slices
+	./structs_methods_interfaces
 )
