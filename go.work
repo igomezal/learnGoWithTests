@@ -10,5 +10,6 @@ use (
 	./iteration
 	./mocking
 	./pointers_errors
+	./select
 	./structs_methods_interfaces
 )
