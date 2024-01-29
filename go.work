@@ -11,6 +11,7 @@ use (
 	./iteration
 	./mocking
 	./pointers_errors
+	./property_based
 	./reflection
 	./select
 	./structs_methods_interfaces
